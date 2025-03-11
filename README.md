@@ -1,17 +1,13 @@
-# consulta
- Trabalho de Faculdade no Curso Ciências da Computação2.
+# Em construção 👷 .
+Progeto para o Trabalho de Faculdade do Curso Ciências da ComputaçãoII.
  
-# website para marcação de consulta medicas. Em construção 👷 .
+# Marcação de consulta medicas via website. 
+O Projeto em Desenvolvimento de um agendamento de consulta via web (principal).
 
- Trabalho de Faculdade no Curso Ciências da Computação2.
- 
-Projeto e Desenvolvimento de um agendamento de consulta via web (principal).
-
-O desenvolvimento do protótipo de uma aplicação web com
-o objetivo de atender usuário de hospital.
+O protótipo de uma aplicação web com
+o objetivo de atender usuários de hospital para agendamento de consulta.
 
 # Linguagens e tecnologias utilizadas
-HTML5/CSS3.
 
 JavaScript (para criar conteúdo de atualização dinâmica).
 Bootstrap (uma biblioteca HTML, CSS e JS).
